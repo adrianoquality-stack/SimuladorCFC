@@ -1,0 +1,6 @@
+{
+  "name": "Simulador Exame CFC 2026.1 - Edital 01/2026",
+  "description": "Simulador interativo oficial do Exame de Suficiência do CFC (Conselho Federal de Contabilidade) 2026.1 com as 50 questões integrais da prova FGV Tipo 4, cronômetro de 4h, cartão-resposta, calculadora e resoluções comentadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
